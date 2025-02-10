@@ -1,0 +1,14 @@
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient(90deg, #000428 0%, #004E92 100%);
+    .title {
+        text-align: center;
+        font-size: 3rem;
+        color: #93EDC7;
+    
+    }
+}
